@@ -20,12 +20,6 @@ Ao finalizar este desafio, fui capaz de:
 - Documentar a experiência de forma clara para uso futuro.
 
 
-
-##  Arquitetura Criada
-A arquitetura desenvolvida segue o diagrama abaixo:
-
-<img src=".img/diagrama arquitetura.jpeg" alt="instancia EC2" width="450"/>
-
 ###  Explicação da Arquitetura
 1. **Usuário** faz upload de música através de uma aplicação hospedada em uma instância **EC2**.
 2. O arquivo é salvo no **Amazon S3**.
